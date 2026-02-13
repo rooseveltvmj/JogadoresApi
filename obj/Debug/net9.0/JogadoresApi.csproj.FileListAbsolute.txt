@@ -34,3 +34,5 @@
 /home/roosevelt/JogadoresApi/obj/Debug/net9.0/JogadoresApi.pdb
 /home/roosevelt/JogadoresApi/obj/Debug/net9.0/JogadoresApi.genruntimeconfig.cache
 /home/roosevelt/JogadoresApi/obj/Debug/net9.0/ref/JogadoresApi.dll
+/home/roosevelt/JogadoresApi/obj/Debug/net9.0/JogadoresApi.sourcelink.json
+/home/roosevelt/JogadoresApi/bin/Debug/net9.0/ranking.json
