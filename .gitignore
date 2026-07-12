@@ -1,0 +1,16 @@
+# Pasta de compilação
+bin/
+obj/
+
+# Arquivos do IDE
+.vs/
+.vscode/
+*.user
+*.sln.iml
+
+# Arquivos de tempo de execução
+*.log
+ranking.json
+
+# Dependências
+node_modules/
